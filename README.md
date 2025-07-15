@@ -1,7 +1,3 @@
-Certainly! For your project, I'll craft a README.md that outlines its purpose, how to compile and run it, and its functionality. You can adjust the content to better fit your project's specifics or add more sections as needed.
-
----
-
 # System Information Gatherer
 
 ## Overview
